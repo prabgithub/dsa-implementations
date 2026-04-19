@@ -1,2 +1,16 @@
 *.log
+
+#test files
 test_sheet.c
+
+# binaries
+a.out
+*.out
+*.exe
+
+# object files
+*.o
+
+# build folders
+build/
+bin/
